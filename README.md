@@ -1,0 +1,3 @@
+# Code Bootstraps
+
+Simple code bootstraps that can be used for kata, advent of code etc...
